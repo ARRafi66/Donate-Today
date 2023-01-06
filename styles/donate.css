@@ -19,7 +19,7 @@ header {
 }
 .header-title {
     font-family: 'Inter';
-    color: #FFFFFF;
+    color: #5746b6;
     font-size: 65px;
     font-weight: 700;
     text-align: center;
@@ -36,7 +36,7 @@ header {
 .btn-primary {
     font-family: 'Inter';
     color: #FFFFFF;
-    background: #FF5959;
+    background: #a82828;
     border-radius: 5px;
     font-size: 20px;
     font-weight: 600;
@@ -73,21 +73,21 @@ main {
     margin-bottom: 50px;
     text-align: center;
 }
-.donate-tk {
+.donate-taka {
     display: flex;
     gap: 22px;
     justify-content: center;
     margin-bottom: 60px;
    
 }
-.donate-tk .amount {
+.donate-taka .amount {
     background: #FAFAFA;
     font-family: 'Inter';
     border-radius: 5px;
     height: 123px;
     padding: 44px 22px;
 }
-.donate-tk .active {
+.donate-taka .active {
     color: #FF5959;
     background: #FFEEEE;
     border: 2px solid #FF5959;
